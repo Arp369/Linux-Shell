@@ -1,0 +1,1 @@
+echo hello i am arpan starting new course to learn shell scripting.
